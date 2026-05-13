@@ -17,7 +17,7 @@ function generateMaintenancePage() {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>H2O Wireless</title>
+    <title>H2O Direct</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -47,8 +47,8 @@ function generateMaintenancePage() {
   </head>
   <body>
     <img
-      src="https://puretalk-temp.netlify.app/h2o-logo.png"
-      alt="H2O Wireless Logo"
+      src="https://puretalk-temp.netlify.app/H2O-Direct-logo.png"
+      alt="H2O Direct Logo"
       style="max-width: 400px; height: auto; margin-bottom: 1rem"
     />
     <p>We'll be back soon!</p>
